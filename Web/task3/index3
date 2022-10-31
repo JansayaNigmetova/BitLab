@@ -1,0 +1,82 @@
+<html>
+ 	<body>
+ 		<table cellpadding="12">
+ 			<tr>
+ 		    	<th><div align="justify">Имя:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите имя">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Фамилия:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите фамилию">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Отчество:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите отчество">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 			<tr>
+ 				<th><div align="justify">Родной город:</div></th>
+ 		        <th><div align="justify">
+ 		        <select>
+ 			       <option>Алматы</option>
+ 			       <option>Астана</option>
+ 			       <option>Оскемен</option> 				
+ 			       <option>Шымкент</option> 
+ 			       <option>Актау</option>
+ 			       <option>Павлодар</option>
+ 			       <option>Семей</option> 				
+ 			       <option>Кызылорда</option> 
+ 			       <option>Тараз</option>
+ 			       <option>Талдыкурган</option>
+ 			       <option>Актобе</option> 				
+ 			       <option>Костанай</option> 	
+ 		        </select></div></th>
+ 		        </th>
+ 		    </tr> 
+ 		    <tr>
+ 		    	<th><div align="justify">Пол:</div> </th>
+ 		    	<th><div align="justify">
+ 		    		<input type="radio">Мужской<br>
+ 		    		<input type="radio">Женский
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Дата рождения</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="date">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+
+ 		        <th><div align="justify">Образование:</div></th>
+ 		        <th> <div align="justify">  
+ 		        <select>
+ 			       <option>НИШ</option>
+ 			       <option>РФМШ</option>
+ 			       <option>БИЛ</option>
+ 			       <option>Haileybury</option>
+ 			       <option>Арыстан</option>
+ 		        </select></div></th> 		        
+ 		    </th> 
+ 		    <tr>
+ 		    	<th><div align="justify">Баллы ЕНТ:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="number" placeholder="Введите баллы ЕНТ">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr> 		    
+ 		    <tr>
+ 		    	<th><div align="justify"><button>Зарегистрировать</button></div></th> 		    	
+ 		    </tr>
+ 		</table>
+	</body>
+</html>

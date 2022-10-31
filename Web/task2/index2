@@ -1,0 +1,69 @@
+<html>
+ 	<body>
+ 		<table cellpadding="10">
+ 			<tr>
+ 				<th><div align="justify">Тип булочки:</div></th>
+ 		        <th><div align="justify">
+ 		        <select>
+ 			       <option>Булочки для гамбургеров</option>
+ 			       <option>Булочки ссинабон</option>
+ 			       <option>Ватрушки<option> 				
+ 			       </option>Плюшки</option> 			
+ 		        </select></div></th>
+ 		        </th>
+ 		    </tr>  		
+ 		        <th><div align="justify">Тип мяса:</div></th>
+ 		        <th> <div align="justify">  
+ 		        <select>
+ 			       <option>говядина</option>
+ 			       <option>қазы</option>
+ 			       <option>курица</option>
+ 			       <option>свинина</option>
+ 		        </select></div></th> 		        
+ 		        </th> 
+ 		    <tr>
+ 		    	<th><div align="justify">Опции:</div> </th>
+ 		    	<th><div align="justify">
+ 		    		<input type="radio">помидор<br>
+ 		    		<input type="radio">солёные огурцы
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Адрес:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите адрес">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Ф.И.О. Заказчика:</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите Ф.И.О.">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Желаемое время доставки</div></th>
+ 		    	<th><div align="justify">
+ 		    		<input type="time">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify">Выбор бургера:</div></th>
+ 		        <th> <div align="justify">  
+ 		        <select>
+ 			       <option>гамбургер</option>
+ 			       <option>чизбургер</option>
+ 			       <option>двойной гамбургер</option>
+ 			       <option>хотдог</option>
+ 		        </select></div></th> 		        
+ 		        </th> 
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify"><button>Заказать</button></div></th> 		    	
+ 		    </tr>
+ 		</table>
+	</body>
+</html>

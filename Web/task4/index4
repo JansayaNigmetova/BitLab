@@ -1,0 +1,38 @@
+<html>
+ 	<body>
+ 		<table  cellpadding = "15"> 			
+			<tbody>
+				<tr>
+					<td>
+						<img src="aksu-zhabaglinskii--700x467.jpg" width="200px"><br>
+						<a href="aksu-zhabaglinskii--700x467.jpg">Аксу</a>
+					</td>
+					<td>
+						<img src="almatinskii--700x467.jpg" width="200px"><br>
+						<a href="almatinskii--700x467.jpg">Алматинская область</a>
+					</td>
+					<td>
+						<img src="naurzumskii--700x467.jpg" width="200px"><br>
+						<a href="naurzumskii--700x467.jpg">Наурузумский</a>
+					</td>					
+				</tr>
+			</tbody>
+			<tbody>
+				<tr>
+					<td>
+						<img src="Атырау2.jpg" width="200px"><br>
+						<a href="Атырау2.jpg">Атырау</a>
+					</td>
+					<td>
+						<img src="Катон5.jpg" width="200px"><br>
+						<a href="Катон5.jpg">Катон</a>
+					</td>
+					<td>
+						<img src="Колсай.jpg" width="200px"><br>
+						<a href="Колсай.jpg">Көлсай</a>
+					</td>
+                </tr>
+			</tbody>
+		</table>
+	</body>
+</html>

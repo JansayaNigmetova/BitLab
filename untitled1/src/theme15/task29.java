@@ -13,7 +13,8 @@ public class task29 {
         for (int i=0;i<n;i++){
             numbers.add(in.nextInt());
         }
-        long m =0;
-        m= numbers.stream().filter(a-> a==0).forEach(a->numbers.indexOf(a));
+        int m=numbers.indexOf(0);
+        numbers.add(m, -1);
+        int k=numbers.indexOf(0);
     }
 }
