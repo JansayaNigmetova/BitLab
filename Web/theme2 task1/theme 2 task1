@@ -1,0 +1,55 @@
+<html>
+ 	<body>
+ 		<table cellpadding="10">
+ 			<thead>
+	 			<th><h3><div align="justify">Имя</th></div></th>
+				<th><h3><div align="justify">Фамилия</th></div></th>
+				<th><h3><div align="justify">Логин</th>	</div></th>			
+			</thead>
+			<tr> 		    	
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите имя">
+ 		    		</div>
+ 		    	</th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите фамилию">
+ 		    		</div>
+ 		    	</th>
+ 		    	<th><div align="justify">
+ 		    		<input type="text" placeholder="Введите логин">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>
+ 		    <tr>
+ 		    	<th><div align="justify"><h3>Страна</th></div></th>
+				<th><div align="justify"><h3>Город</th></div></th>
+				<th><div align="justify"><h3>Улица</th>	</div></th>
+ 		    </tr>
+ 			<tr> 				
+ 		        <th><div align="justify">
+ 		        <select>
+ 			       <option>Казахстан</option>
+ 			       <option>США</option>
+ 			       <option>Англия<option> 				
+ 			       </option>Турция</option> 			
+ 		        </select></div></th>
+ 		        </th> 		    			
+ 		        <th><div align="justify">
+ 		        <select>
+ 			       <option>Алматы</option>
+ 			       <option>Лондон</option>
+ 			       <option>Стамбул<option> 				
+ 			       </option>Вашингтон</option> 			
+ 		        </select></div></th>
+ 		        </th>
+ 		        <th><div align="justify">
+ 		    		<input type="text" placeholder="Введите улицу">
+ 		    		</div>
+ 		    	</th>
+ 		    </tr>   		       
+ 		    <tr>
+ 		    	<th><div align="justify"><button>Загрузить данные</button></div></th> 		    	
+ 		    </tr>
+ 		</table>
+	</body>
+</html>

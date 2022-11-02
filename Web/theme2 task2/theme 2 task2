@@ -1,0 +1,41 @@
+<html>
+ 	<body>
+ 		<div style="margin-left: 20px;">
+ 			<div style="width: 74%;">
+	 			<p style="font-size: 24px;">Название фильма</p>
+ 		    	<input type="text" style="font-size: 20px; width: 83%; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" placeholder="Название фильма">
+ 		    </div>
+ 		    <div style="display: flex;">
+ 		        <div style="width: 40%">
+ 		               <p style="font-size: 24px;">Кинотеатры</p>	
+ 		               <select style="font-size:20px; width: 90%; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+ 			           <option>Кинотеатр Алатау</option>
+ 			           <option>Кинотеатр Есентай</option>
+ 			           <option>Кинотеатр Мега<option> 				
+ 			           </option>Кинотеатр Арман</option> 			
+ 		               </select>	
+ 			    </div>
+ 			    <div style="width: 30%">
+ 			        <p style="font-size: 24px;">Время сеанса</p>
+ 			       	<select name="hour" style="font-size:20px; width: 30%; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+ 			       		<option>16</option>
+ 			       		<option>17</option>
+ 			       		<option>18</option>
+ 			       		<option>19</option>
+ 			       		<option>20</option>
+ 			       		<option>21</option>
+ 			       		<option>22</option>
+ 			       	</select>
+ 			       	<select name="time" style="font-size:20px; margin-left: 45px; width: 30%; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">
+ 			       		<option>15</option>
+ 			       		<option>30</option>
+ 			       		<option>45</option>
+ 			       	</select>
+ 			    </div> 			    
+ 			</div>
+ 			<div style="width: 300px;">
+ 			<button style="color: white; background-color: black; font-size: 20px; width: 200px; padding: 15px; margin-top: 25px;">Поиск Фильма</button>
+ 			</div>
+ 		</div>
+	</body>
+</html>

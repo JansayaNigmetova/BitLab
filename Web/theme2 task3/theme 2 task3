@@ -1,0 +1,62 @@
+<html>
+ 	<body>
+ 		<div style="margin-left: 20px;">
+ 			<div style="width:  900px; height: 50px; background-color: #151c52; display: flex;"> 
+ 			    <div>	 				
+ 				     <p style="color: white; padding-left: 10px; padding-bottom: 10px; font-weight: 900;">BITLAB</p>
+ 				</div>
+ 				<div>
+ 				     <p style="color: white; padding-left: 5px; padding-bottom: 10px; font-weight: 100;">SHOP</p>
+ 				</div>	
+ 				<div style="padding-top: 17px;">
+ 				     <a style="color: white; padding-left: 600px; font-weight: 100; font-size: 10px;">Laptops</a>
+ 				</div>
+ 			    <div style="padding-top: 17px;">
+ 				     <a style="color: white; padding-left: 10px; font-weight: 100; font-size: 10px;">Phones</a>
+ 				</div>
+ 				<div style="padding-top: 17px;">
+ 				     <a style="color: white; padding-left: 10px; font-weight: 100; font-size: 10px;">Macbooks</a>
+ 				</div>
+ 				<div style="padding-top: 17px;">
+ 				     <a style="color: white; padding-left: 10px; font-weight: 100; font-size: 10px;">Printers</a>
+ 				</div>	
+ 			</div>
+ 			<div style="width: 900px; height: 120px; background-color: #434445; margin-top: 5px;">
+ 				<p style="color: white; padding-left: 300px; padding-top: 45px; font-size: 20px;">Welcome to BITLAB SHOP</p>
+ 			</div>
+ 			<div>
+ 				<p style="color: black; padding-left: 360px; font-size: 20px;">Our products</p>
+ 			</div>
+ 			<div style="width:900px; display: flex;">
+ 				<div style="text-align: center; width: 25%; border: 2px solid #cdced1;">
+ 					<a href="03-24.jpg"><img src="03-24.jpg" width="200px"></a>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;">Mac Book Pro 20</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; font-size: 22px; font-weight: 700;">999.99$</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; padding-bottom: 10px"><button style="background-color: #48abf7;">Buy Now</button></div> 					
+ 				</div>
+ 				<div style="text-align: center; width: 25%; border: 2px solid #cdced1;margin-left: 10px;" >
+ 					<a href="eec9e7c0cb.jpg"><img src="eec9e7c0cb.jpg" width="200px"></a>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;">Mac Book Air 20</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; font-size: 22px; font-weight: 700;">799.99$</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; padding-bottom: 10px"><button style="background-color: #48abf7;">Buy Now</button></div> 					
+ 				</div>
+ 				<div style="text-align: center; width: 25%; border: 2px solid #cdced1;margin-left: 10px;">
+ 					<a href="foto10.jpg"><img src="foto10.jpg" width="200px"></a>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;">Mac Book Pro 21</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; font-size: 22px; font-weight: 700;">1999.99$</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;"><button style="background-color: #48abf7;">Buy Now</button></div> 					
+ 				</div>
+ 				<div style="text-align: center; width: 25%; border: 2px solid #cdced1;margin-left: 10px;">
+ 					<a href="foto11.jpg"><img src="foto11.jpg" width="200px"></a>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;">Mac Book Air 21</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px; font-size: 22px; font-weight: 700;">1299.99$</div>
+ 					<div align="justify" style="padding-top: 10px; padding-left: 20px;"><button style="background-color: #48abf7;">Buy Now</button></div> 					
+ 				</div>
+ 			</div>
+ 			<div style="width: 900px; height: 45px; background-color: #0d0d0d; margin-top: 5px;">
+ 				<p style="color: white; padding-left: 300px; padding-top: 15px; font-size: 10px; font-family: Arial;">Copyright Developed by BITLAB, ALL Rights Reserved</p>
+ 			</div>
+ 			
+ 		</div>
+	</body>
+</html>
