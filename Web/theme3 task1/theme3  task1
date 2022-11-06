@@ -1,0 +1,108 @@
+<html>
+    <head>
+    	<link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body>
+    	<div class="zero">
+            <div class="one">
+    	       <p class="two">BITLAB NEWS</p>   
+    	          <div class="three"> 	     	
+    	             <p><a href="" class="four">About</a></p>
+    	             <p><a href="" class="four">Contacts</a></p>
+    	             <p><a href="" class="four">FAQ</a></p>
+    	             <p><a href="" class="four">Login</a></p>
+    	          </div>
+            </div>
+    <div style="display: flex;">    
+        <div class="five">
+        	<p><span>EMAIL:</span></p>
+        	<input type="text" placeholder="Insert Email">
+        	<p><span>PASSWORD:</span></p>
+        	<input type="PASSWORD" placeholder="Insert Password"> <br>
+        	<button>SIGN IN</button>
+        	<p>I want to create <a style="color: blue; text-decoration: none;" href="">new accaunt</a></p>
+        </div>
+        <div>
+        <div class="six">
+            <h3>Boeing 777: Dozens grounded after Denver engine faifure</h3>
+            <img src="foto1.jpg" width="200px">
+            <p>US plane manufacturer Boeing has recommended grounding all of the 777-model aircraft which have the same type of engine that suffered failure and shed debris over Denver on Saturday. <span>Real More</span></p>
+        </div>
+        <div class="six">
+            <h3>Three reasons Boden's Covid bill is a big deal</h3>
+            <img src="foto2.jpg" width="200px">
+            <p>Back in 2010, then Vice-President Joe Biden used a swear word to emphas ise how big a deal he thought congressional passage of sweeping Democrat-backed healthcare reforms was. <span>Real More</span></p>
+        </div>
+        </div>
+        <div class="seven">
+            <table>
+                <tr>
+                    <td>№</td> <td>Team</td> <td>P</td> <td>D</td> <td>L</td> <td>GD</td> <td>87</td>
+                </tr>
+                <tr>
+                    <td>1</td> <td>Real Madrid</td> <td>38</td> <td>26</td> <td>3</td> <td>70-25</td> <td>75</td>
+                </tr>
+                <tr>
+                    <td>2</td> <td>Dortmund</td> <td>38</td> <td>25</td> <td>6</td> <td>86-38</td> <td>74</td>
+                </tr>
+                <tr>
+                    <td>3</td> <td>Bayern Munich</td> <td>38</td> <td>18</td> <td>4</td> <td>51-27</td> <td>68</td>
+                </tr>
+               <tr>
+                    <td>4</td> <td>Manchester City</td> <td>38</td> <td>19</td> <td>6</td> <td>31-25</td> <td>62</td>
+                </tr>
+                <tr>
+                    <td>5</td> <td>Paris S-G</td> <td>38</td> <td>18</td> <td>7</td> <td>54-52</td> <td>61</td>
+                </tr>
+                <tr>
+                    <td>6</td> <td>Liverpool</td> <td>38</td> <td>16</td> <td>9</td> <td>63-18</td> <td>60</td>
+                </tr>
+                <tr>
+                    <td>7</td> <td>Manchester Utd</td> <td>38</td> <td>16</td> <td>7</td> <td>52-24</td> <td>58</td>
+                </tr>
+                <tr>
+                    <td>8</td> <td>RB Leipzig</td> <td>38</td> <td>18</td> <td>8</td> <td>86-25</td> <td>54</td>
+                </tr>
+                <tr>
+                    <td>9</td> <td>Barcelona</td> <td>38</td> <td>14</td> <td>9</td> <td>85-24</td> <td>53</td>
+                </tr>
+                <tr>
+                    <td>10</td> <td>Juventus</td> <td>38</td> <td>13</td> <td>11</td> <td>25-84</td> <td>51</td>
+                </tr>
+                <tr>
+                    <td>11</td> <td>Chelsea</td> <td>38</td> <td>13</td> <td>10</td> <td>26-54</td> <td>49</td>
+                </tr>
+                <tr>
+                    <td>12</td> <td>Leverkusen</td> <td>38</td> <td>14</td> <td>9</td> <td>25-54</td> <td>47</td>
+                </tr>
+                <tr>
+                    <td>13</td> <td>Atlético Madrid</td> <td>38</td> <td>9</td> <td>12</td> <td>78-65</td> <td>45</td>
+                </tr>
+               <tr>
+                    <td>14</td> <td>Inter</td> <td>38</td> <td>11</td> <td>14</td> <td>84-26</td> <td>41</td>
+                </tr>
+                <tr>
+                    <td>15</td> <td>Dortmund</td> <td>38</td> <td>10</td> <td>12</td> <td>85-36</td> <td>39</td>
+                </tr>
+                <tr>
+                    <td>16</td> <td>Leicester City</td> <td>38</td> <td>10</td> <td>10</td> <td>74-58</td> <td>35</td>
+                </tr>
+                <tr>
+                    <td>17</td> <td>Tottenham</td> <td>38</td> <td>7</td> <td>14</td> <td>95-25</td> <td>30</td>
+                </tr>
+                <tr>
+                    <td>18</td> <td>M’gladbach</td> <td>38</td> <td>8</td> <td>15</td> <td>84-57</td> <td>29</td>
+                </tr>
+                <tr>
+                    <td>19</td> <td>Arsenal</td> <td>38</td> <td>9</td> <td>16</td> <td>84-35</td> <td>27</td>
+                </tr>
+                <tr>
+                    <td>20</td> <td>Atalanta</td> <td>38</td> <td>5</td> <td>19</td> <td>86-24</td> <td>25</td>
+                </tr>
+
+            </table>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,66 @@
+<html>
+    <head>
+    	<link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+    	<div class="zero">
+            <div class="one">
+    	       <p class="two"><span>BITLAB</span></p> 
+               <p class="two2"> NEWS</p>
+
+    	          <div class="three"> 	     	
+    	             <p><a href="" class="four">Home</a></p>
+    	             <p><a href="" class="four">Sport</a></p>
+    	             <p><a href="" class="four">Science</a></p>
+    	             <p><a href="" class="four">Politics</a></p>
+                     <p><a href="" class="four">Finanse</a></p>
+    	          </div>
+            </div>
+
+            <div class="five">
+                <div class="six">
+                    <img class="img1" src="foto.jfif">
+                </div>
+                <div>
+                   <h3><a style="color: black" class="six6"  href="">Khabib to Conor: "It is the same thing"</a> </h3> 
+                   <p>Khabib Nurmagomedov is done with Conor McGregor, and he thinks that MMA should be as well.
+
+                      Nurmagomedov, the former UFC Lightweight Champion and owner of a 29-0 record in UFC competition, explained that the broken leg McGregor suffered in the first round of his defeat against Dustin Poirier would hamper his ability to return to the top of the sport. As such, he thinks that the UFC should move on from the 32-year-old Irish boxer.
+
+                      "Without broken legs, yes, [he could be the same]," Nurmagomedov said, per ESPN's Brett Okamoto. "But with broken legs, he's never going to kick the same. With him, no, I don't believe [he'll return to the top]. Conor have good age [32], but what happened with his mind, legs — this guy is finished, but he's good for promotion."</p>
+                </div>
+            </div>
+            <div class="seven">
+                <h3>Latest news</h3>
+            </div>
+            <div class="eight">
+                <div class="nine">
+                    <img src="foto1.jpg">
+                    <h4 class="ten10">Barcelona legend Gerard Pique</h4>
+                    <p class="ten">Barcelona legend Gerard Pique was given an emotional standing ovation as he made his final Nou Camp appearance in their 2-0 La Liga win over Almeria.</p>
+                    <button>Real More</button>
+                </div>
+                <div class="nine">
+                    <img src="foto2.jfif">
+                    <h4 class="ten10">Nach Auswechslung gegen S04: Werder gibt Füllkrug-Update</h4>
+                    <p class="ten">Niclas Füllkrug musste bei Bremens 2:1-Heimsieg gegen den FC Schalke 04 angeschlagen ausgewechselt werden. </p>
+                    <button>Real More</button>
+                </div>
+                <div class="nine">
+                    <img src="foto3.jpg">
+                    <h4 class="ten10">Premier League: Chelsea 0-0 Arsenal - Aubameyang</h4>
+                    <p class="ten">Mason Mount does Marc Cucurella no favours as Chelsea try to get in down the left. </p>
+                    <button>Real More</button>
+                </div>
+                <div class="nine">
+                   <img src="foto4.jpg">
+                    <h4 class="ten10">Paralympic gold medallist Liz Johnson calls for greater equality for disabled people</h4>
+                    <p class="ten">A decorated former Paralympian has told ITV News that she faces barriers every day due to her disability.
+                       </p> 
+                    <button>Real More</button>
+                </div>
+                
+            </div>
+        </div>
+    </body>
+</html>
