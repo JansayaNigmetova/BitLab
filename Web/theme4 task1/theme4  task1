@@ -1,0 +1,71 @@
+<html>
+    <head>
+    	<link rel="stylesheet" type="text/css" href="styles.css">
+    </head>
+    <body>
+    	<div class="zero">
+            <div class="one">
+    	        <p class="two"><span>Fasebook</span></p> 
+                <p class="three"><a href="">Logout</a></p>
+            </div>
+
+            <div class="four">
+                
+                    <div class="five">
+                        <table>
+                            <tr><td class="td1">
+                                <img class="img0" src="foto.jpg">
+                                <p class="p1">Aysulu Yerkenkyzy <span>edit</span></p>
+                                <p class="p2">Komsomol member, athlete and just a beauty. Not seen in damaging relationships</p>
+                            </td></tr>                  
+                            <tr><td><a href="">My Profile</a></td></tr>
+                            <tr><td><a href="">My Messages (3)</a></td></tr>
+                            <tr><td><a href="">My Videos</a></td></tr>
+                            <tr><td><a href="">My Photos</a></td></tr>
+                            <tr><td><a href="file:///C:/Users/user/IdeaProjects/Web/theme4%20task1/theme4%20%20task1p2">My Groups</a></td></tr>
+                            <tr><td><a href="">My Games</a></td></tr>                           
+                        </table>
+                    </div>
+                    <div class="seven">       
+                        <div class="six">
+                            <h3>Nations League: Kazakhstan defeats Belarus and enters League B</h3>
+                            <img class="img1" src="foto3.png">
+                            <p class="p3">In the third group of League C of the League of Nations, Kazakhstan's national team met with Belarus national team in the 5th round and won with a score of 2:1.</p>
+                            <button>View More</button>
+                        </div>                
+                        <div class="six">
+                            <h3>CSKA Sports Committee Support Kazakhstan National Team</h3>
+                            <img class="img1" src="foto2.jpg">
+                            <p class="p3">CSKA Sports Committee of the Ministry of Defense of the Republic of Kazakhstan supported the Kazakhstan national team before the start of the 2020 UEFA Euro qualification.</p>
+                            <button>View More</button>
+                        </div>
+                </div>
+                <div class="five">
+                    <table>                 
+                        <tr><td>
+                            <h3 class="h3">Kazakh President launches gas chemical facility in Atyrau region</h3>
+                            <p>The Kazakh President launched an integrated gas chemical facility</p>
+                            <a href="">President of Kazakhstan </a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">II Central Asia -China Forum kicks off in Beijing</h3>
+                            <p>BEIJING. KAZINFORM The II Forum of think tanks of Central Asia and China started its work in Beijing on Tuesday via videoconferencing and offline, Kazinform reports.</p>
+                            <a href="">Event </a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">Karakat Abden visits Kyzylorda region</h3>
+                            <p>Presidential candidate Karakat Abden arrived in Kyzylorda to visit her regional election headquarters, the candidate’s press service reports.</p>
+                            <a href="">KYZYLORDA. KAZINFORM</a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">CEC accredits 134 foreign observers</h3>
+                            <p>The Central Election Commission accredited 134 foreign observers from November 1 to 7, Kazinform correspondent reports.</p>
+                            <a href="">ASTANA. KAZINFORM</a>
+                        </td></tr>
+                                                
+                    </table>
+                </div>
+            </div>            
+        </div>
+    </body>
+</html>

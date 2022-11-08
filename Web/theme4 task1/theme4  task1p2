@@ -1,0 +1,114 @@
+<html>
+    <head>
+    	<link rel="stylesheet" type="text/css" href="styles2.css">
+    </head>
+    <body>
+    	<div class="zero">
+            <div class="one">
+    	        <p class="two"><span>Fasebook</span></p> 
+                <p class="three"><a href="">Logout</a></p>
+            </div>
+
+            <div class="four">
+                
+                    <div class="five">
+                        <table>
+                            <tr><td class="td1">
+                                <img class="img0" src="foto.jpg">
+                                <p class="p1">Aysulu Yerkenkyzy <span>edit</span></p>
+                                <p class="p2">Komsomol member, athlete and just a beauty. Not seen in damaging relationships</p>
+                            </td></tr>                  
+                            <tr><td><a href="">My Profile</a></td></tr>
+                            <tr><td><a href="">My Messages (3)</a></td></tr>
+                            <tr><td><a href="">My Videos</a></td></tr>
+                            <tr><td><a href="">My Photos</a></td></tr>
+                            <tr><td><a href="">My Groups</a></td></tr>
+                            <tr><td><a href="">My Games</a></td></tr>                           
+                        </table>
+                    </div>
+                    
+                    <div class="six">  
+                          <div class="seven">
+                            <div><img class="img1" src="foto21.jpg"></div>
+                                <div class="div1">
+                                    <h3>Azamat Kuanishev</h3>
+                                    <p>25 years. Almaty, Kazakhstan</p>
+                                    <button>Send Message</button>
+                                </div>                            
+                                                     
+                          </div> 
+                          <div class="seven">
+                            <div><img class="img1" src="foto22.jpg"></div>
+                                <div class="div1">
+                                    <h3>Kanat Smailov</h3>
+                                    <p>30 years. Toronto, Kanada</p>
+                                    <button>Send Message</button>
+                                </div>                    
+                                                     
+                          </div>  
+                          <div class="seven">
+                            <div><img class="img1" src="foto23.jpg"></div>
+                                <div class="div1">
+                                    <h3>Samat Utepov</h3>
+                                    <p>35 years. Astana, Kazakhstan</p>
+                                    <button>Send Message</button>
+                                </div>                    
+                                                     
+                          </div>  
+                          <div class="seven">
+                            <div><img class="img1" src="foto24.jpg"></div>
+                                <div class="div1">
+                                    <h3>Erik Abishev</h3>
+                                    <p>45 years. London, Great Britain</p>
+                                    <button>Send Message</button>
+                                </div>                    
+                                                    
+                          </div>
+                          <div class="seven">
+                            <div><img class="img1" src="foto25.jpeg"></div>
+                                <div class="div1">
+                                    <h3>Arman Kaydarov</h3>
+                                    <p>37 years. Astana, Kazakhstan</p>
+                                    <button>Send Message</button>
+                                </div>                    
+                                                    
+                          </div>   
+                        
+                    </div>
+                            <div class="div2">
+                                 <div><button class="button1">Remove</button></div> 
+                                 <div><button class="button1">Remove</button></div> 
+                                 <div><button class="button1">Remove</button></div>
+                                 <div><button class="button1">Remove</button></div>
+                                 <div><button class="button1">Remove</button></div>
+                            </div>
+                
+                <div class="five">
+                    <table>                 
+                        <tr><td>
+                            <h3 class="h3">Kazakh President launches gas chemical facility in Atyrau region</h3>
+                            <p>The Kazakh President launched an integrated gas chemical facility</p>
+                            <a href="">President of Kazakhstan </a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">II Central Asia -China Forum kicks off in Beijing</h3>
+                            <p>BEIJING. KAZINFORM The II Forum of think tanks of Central Asia and China started its work in Beijing on Tuesday via videoconferencing and offline, Kazinform reports.</p>
+                            <a href="">Event </a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">Karakat Abden visits Kyzylorda region</h3>
+                            <p>Presidential candidate Karakat Abden arrived in Kyzylorda to visit her regional election headquarters, the candidate’s press service reports.</p>
+                            <a href="">KYZYLORDA. KAZINFORM</a>
+                        </td></tr>
+                        <tr><td>
+                            <h3 class="h3">CEC accredits 134 foreign observers</h3>
+                            <p>The Central Election Commission accredited 134 foreign observers from November 1 to 7, Kazinform correspondent reports.</p>
+                            <a href="">ASTANA. KAZINFORM</a>
+                        </td></tr>
+                                                
+                    </table>
+                </div>
+            </div>            
+        </div>
+    </body>
+</html>
